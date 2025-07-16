@@ -80,6 +80,17 @@ p {
 }
 
 .auto {
-    margin: auto 2px;
     font-weight: 800;
+    margin-left: 12px;
+    font-size: 13px;
 }
+
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
+.css:hover {
+    color: hsl(47, 88%, 63%);
+}
+
