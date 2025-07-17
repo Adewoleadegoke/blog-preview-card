@@ -19,15 +19,9 @@ p {
     margin: 0;
 }
 
-.attribution {
-    margin-top: 50px;
-    position: absolute;
-    bottom: 10px;
-}
 
 .main-component {
     margin: auto;
-    margin-top: 45px;
     background-color: white;
     width: 17.4375rem;
     padding: 24px;
